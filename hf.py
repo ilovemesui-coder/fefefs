@@ -1,6 +1,6 @@
 import config
 from huggingface_hub import InferenceClient
-HF_API_KEY= "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"
+
 
 MODELS = getattr(
     config,
